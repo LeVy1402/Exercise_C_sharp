@@ -1,0 +1,7 @@
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\BT_Struct\BT_Struct\bin\Debug\BT_Struct.exe.config
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\BT_Struct\BT_Struct\bin\Debug\BT_Struct.exe
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\BT_Struct\BT_Struct\bin\Debug\BT_Struct.pdb
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\BT_Struct\BT_Struct\obj\Debug\BT_Struct.csprojAssemblyReference.cache
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\BT_Struct\BT_Struct\obj\Debug\BT_Struct.csproj.CoreCompileInputs.cache
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\BT_Struct\BT_Struct\obj\Debug\BT_Struct.exe
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\BT_Struct\BT_Struct\obj\Debug\BT_Struct.pdb
