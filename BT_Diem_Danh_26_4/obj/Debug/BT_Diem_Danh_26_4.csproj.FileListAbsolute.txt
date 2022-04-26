@@ -1,0 +1,7 @@
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\BT_Diem_Danh_26_4\BT_Diem_Danh_26_4\bin\Debug\BT_Diem_Danh_26_4.exe.config
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\BT_Diem_Danh_26_4\BT_Diem_Danh_26_4\bin\Debug\BT_Diem_Danh_26_4.exe
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\BT_Diem_Danh_26_4\BT_Diem_Danh_26_4\bin\Debug\BT_Diem_Danh_26_4.pdb
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\BT_Diem_Danh_26_4\BT_Diem_Danh_26_4\obj\Debug\BT_Diem_Danh_26_4.csprojAssemblyReference.cache
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\BT_Diem_Danh_26_4\BT_Diem_Danh_26_4\obj\Debug\BT_Diem_Danh_26_4.csproj.CoreCompileInputs.cache
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\BT_Diem_Danh_26_4\BT_Diem_Danh_26_4\obj\Debug\BT_Diem_Danh_26_4.exe
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\BT_Diem_Danh_26_4\BT_Diem_Danh_26_4\obj\Debug\BT_Diem_Danh_26_4.pdb

@@ -1,0 +1,7 @@
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\BT_Diem_Danh_26_4\Animal\bin\Debug\Animal.exe.config
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\BT_Diem_Danh_26_4\Animal\bin\Debug\Animal.exe
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\BT_Diem_Danh_26_4\Animal\bin\Debug\Animal.pdb
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\BT_Diem_Danh_26_4\Animal\obj\Debug\Animal.csprojAssemblyReference.cache
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\BT_Diem_Danh_26_4\Animal\obj\Debug\Animal.csproj.CoreCompileInputs.cache
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\BT_Diem_Danh_26_4\Animal\obj\Debug\Animal.exe
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\BT_Diem_Danh_26_4\Animal\obj\Debug\Animal.pdb
