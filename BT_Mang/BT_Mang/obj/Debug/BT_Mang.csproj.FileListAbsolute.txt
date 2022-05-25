@@ -1,0 +1,7 @@
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\BT_Mang\BT_Mang\bin\Debug\BT_Mang.exe.config
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\BT_Mang\BT_Mang\bin\Debug\BT_Mang.exe
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\BT_Mang\BT_Mang\bin\Debug\BT_Mang.pdb
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\BT_Mang\BT_Mang\obj\Debug\BT_Mang.csprojAssemblyReference.cache
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\BT_Mang\BT_Mang\obj\Debug\BT_Mang.csproj.CoreCompileInputs.cache
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\BT_Mang\BT_Mang\obj\Debug\BT_Mang.exe
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\BT_Mang\BT_Mang\obj\Debug\BT_Mang.pdb

@@ -1,0 +1,7 @@
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\Ebook250\Ebook250\bin\Debug\Ebook250.exe.config
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\Ebook250\Ebook250\bin\Debug\Ebook250.exe
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\Ebook250\Ebook250\bin\Debug\Ebook250.pdb
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\Ebook250\Ebook250\obj\Debug\Ebook250.csprojAssemblyReference.cache
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\Ebook250\Ebook250\obj\Debug\Ebook250.csproj.CoreCompileInputs.cache
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\Ebook250\Ebook250\obj\Debug\Ebook250.exe
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\Ebook250\Ebook250\obj\Debug\Ebook250.pdb

@@ -1,0 +1,7 @@
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\BT_OOP\BT_OOP\bin\Debug\BT_OOP.exe.config
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\BT_OOP\BT_OOP\bin\Debug\BT_OOP.exe
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\BT_OOP\BT_OOP\bin\Debug\BT_OOP.pdb
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\BT_OOP\BT_OOP\obj\Debug\CanBo.csprojAssemblyReference.cache
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\BT_OOP\BT_OOP\obj\Debug\CanBo.csproj.CoreCompileInputs.cache
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\BT_OOP\BT_OOP\obj\Debug\BT_OOP.exe
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\BT_OOP\BT_OOP\obj\Debug\BT_OOP.pdb
