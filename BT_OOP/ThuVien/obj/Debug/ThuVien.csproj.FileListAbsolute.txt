@@ -1,0 +1,7 @@
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\NhanhMain\BT_OOP\ThuVien\bin\Debug\ThuVien.exe.config
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\NhanhMain\BT_OOP\ThuVien\bin\Debug\ThuVien.exe
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\NhanhMain\BT_OOP\ThuVien\bin\Debug\ThuVien.pdb
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\NhanhMain\BT_OOP\ThuVien\obj\Debug\ThuVien.csprojAssemblyReference.cache
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\NhanhMain\BT_OOP\ThuVien\obj\Debug\ThuVien.csproj.CoreCompileInputs.cache
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\NhanhMain\BT_OOP\ThuVien\obj\Debug\ThuVien.exe
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\NhanhMain\BT_OOP\ThuVien\obj\Debug\ThuVien.pdb
