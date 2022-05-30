@@ -1,0 +1,8 @@
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\NhanhMain\lab01\Bai4\bin\Debug\Bai4.exe.config
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\NhanhMain\lab01\Bai4\bin\Debug\Bai4.exe
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\NhanhMain\lab01\Bai4\bin\Debug\Bai4.pdb
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\NhanhMain\lab01\Bai4\obj\Debug\Bai4.csproj.AssemblyReference.cache
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\NhanhMain\lab01\Bai4\obj\Debug\Bai4.csproj.SuggestedBindingRedirects.cache
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\NhanhMain\lab01\Bai4\obj\Debug\Bai4.csproj.CoreCompileInputs.cache
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\NhanhMain\lab01\Bai4\obj\Debug\Bai4.exe
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\NhanhMain\lab01\Bai4\obj\Debug\Bai4.pdb
