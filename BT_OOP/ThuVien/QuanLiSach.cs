@@ -229,4 +229,12 @@ namespace ThuVien
             }
         }
     }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            QuanLySach.Start();
+        }
+    }
+      
 }

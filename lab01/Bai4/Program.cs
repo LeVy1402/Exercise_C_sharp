@@ -164,11 +164,11 @@ namespace Bai4
                     luongNhanVien += (staff1 as NhanVien).luongtrongthang;
                 }
                 else if(staff1 is NhaKhoaHoc) {
-                    luongQuanLy += (staff1 as NhaKhoaHoc).bacLuong * (staff1 as NhaKhoaHoc).soNgayCongTrongThang;
+                    luongNKH += (staff1 as NhaKhoaHoc).bacLuong * (staff1 as NhaKhoaHoc).soNgayCongTrongThang;
                 }
                 else
                 {
-                    luongNKH += (staff1 as NhaQuanLy).bacLuong * (staff1 as NhaQuanLy).soNgayCongTrongThang;
+                    luongQuanLy += (staff1 as NhaQuanLy).bacLuong * (staff1 as NhaQuanLy).soNgayCongTrongThang;
                 }
             }
             Console.WriteLine(String.Format("Lương nhân viên: {0} \nLương quản lý: {1}\nLương nhà khoa học: {2}", luongNhanVien, luongQuanLy, luongNKH));

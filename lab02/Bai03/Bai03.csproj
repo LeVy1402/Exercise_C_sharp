@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{01EBE94D-BD6F-4A5B-A7EC-39132B9FCDAE}</ProjectGuid>
+    <ProjectGuid>{BA15A7BC-2B95-4948-A287-81D95BC04D5E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ThuVien</RootNamespace>
-    <AssemblyName>ThuVien</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <RootNamespace>Bai03</RootNamespace>
+    <AssemblyName>Bai03</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
@@ -43,8 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="QuanLiSach.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
