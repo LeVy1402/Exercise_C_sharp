@@ -1,0 +1,8 @@
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\NhanhMain\BT_OOP\ThiSInh_v2\bin\Debug\ThiSInh_v2.exe.config
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\NhanhMain\BT_OOP\ThiSInh_v2\bin\Debug\ThiSInh_v2.exe
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\NhanhMain\BT_OOP\ThiSInh_v2\bin\Debug\ThiSInh_v2.pdb
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\NhanhMain\BT_OOP\ThiSInh_v2\obj\Debug\ThiSInh_v2.csproj.AssemblyReference.cache
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\NhanhMain\BT_OOP\ThiSInh_v2\obj\Debug\ThiSInh_v2.csproj.SuggestedBindingRedirects.cache
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\NhanhMain\BT_OOP\ThiSInh_v2\obj\Debug\ThiSInh_v2.csproj.CoreCompileInputs.cache
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\NhanhMain\BT_OOP\ThiSInh_v2\obj\Debug\ThiSInh_v2.exe
+E:\MÔN HỌC Ở TRƯỜNG\221\221LTC02_Lập trình C#\NhanhMain\BT_OOP\ThiSInh_v2\obj\Debug\ThiSInh_v2.pdb
